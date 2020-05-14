@@ -1,4 +1,20 @@
-.ui.header>i.icon {
+.ui.header > i.icon {
   color: orange;
   font-size: 1.2em;
+}
+
+.container.main {
+  margin-top: 5em;
+}
+
+#deleteBtn {
+  display: inline;
+}
+
+.description > p {
+  white-space: pre-wrap;
+}
+
+.ui.image.rounded {
+  width: 16em;
 }
